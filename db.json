@@ -4,5 +4,17 @@
       {"id": 2,"name": "Nmax 250","year":2014,"img":"assets/img/hotel_1.jpg","rate":7.9},
       {"id": 3,"name": "KLX","year":2011,"img":"assets/img/hotel_1.jpg","rate":7.9},
       {"id": 4,"name": "CB150","year":2009,"img":"assets/img/hotel_1.jpg","rate":5.9}
+    ],
+  "destinations": [
+      {"id": 1,"name": "Kawah Putih","city":"Bandung","img":"assets/img/hotel_1.jpg","rate":8.9},
+      {"id": 2,"name": "Pantai Anyer","city":"Jakarta","img":"assets/img/hotel_1.jpg","rate":7.9},
+      {"id": 3,"name": "Pantai Kuta","city":"Bali","img":"assets/img/hotel_1.jpg","rate":7.9},
+      {"id": 4,"name": "Gili Trawangan","city":"Lombok","img":"assets/img/hotel_1.jpg","rate":5.9}
+    ],
+  "hpz": [
+      {"id": 1,"name": "Yongs Motor","city":"Bandung","img":"assets/img/hotel_1.jpg","rate":8.9},
+      {"id": 2,"name": "Jaya Makmur","city":"Jakarta","img":"assets/img/hotel_1.jpg","rate":7.9},
+      {"id": 3,"name": "Kereta Cepat","city":"Bali","img":"assets/img/hotel_1.jpg","rate":7.9},
+      {"id": 4,"name": "Lala Motor","city":"Lombok","img":"assets/img/hotel_1.jpg","rate":5.9}
     ]
 }
