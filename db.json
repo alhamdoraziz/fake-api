@@ -1,16 +1,11 @@
 {
-    "profile":[
-        {"id":1,
-        "name":"jhon",
-        "age":21
-        },
-        {"id":2,
-        "name":"judy",
-        "age":31
-        },
-        {"id":3,
-        "name":"jack",
-        "age":41
-        }
-    ]
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
