@@ -1,11 +1,8 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "profiles": [
+      {"id": 1,"name": "Nmax","year":2010},
+      {"id": 2,"name": "Nmax 250","year":2014},
+      {"id": 3,"name": "KLX","year":2011},
+      {"id": 4,"name": "CB150","year":2009}
+    ]
 }
